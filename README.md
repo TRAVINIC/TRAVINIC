@@ -3,7 +3,7 @@
 
 # TRAVINIC
 
-### Software Developer · Automation · Data
+### Software Developer · Data Analyst
 
 Building software, automating processes and transforming ideas into practical solutions.
 
